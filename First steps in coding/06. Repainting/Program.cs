@@ -1,0 +1,10 @@
+﻿int nailon = int.Parse(Console.ReadLine());
+int paint = int.Parse(Console.ReadLine());
+int separator = int.Parse(Console.ReadLine());
+int hours = int.Parse(Console.ReadLine());
+double nailon2 = (nailon + 2) * 1.5;
+double paint2 = (paint + paint * 0.1) * 14.5;
+double separator2 = separator * 5.0;
+double sum = nailon2 + paint2 + separator2 + 0.4;
+double fullSum = hours * sum * 0.3;
+Console.WriteLine(fullSum + sum);

@@ -1,0 +1,10 @@
+﻿int pen = int.Parse(Console.ReadLine());
+int marker = int.Parse(Console.ReadLine());
+int clean = int.Parse(Console.ReadLine());
+int percent = int.Parse(Console.ReadLine());
+double pen2 = pen * 5.8;
+double marker2 = marker * 7.2;
+double clean2 = clean * 1.2;
+double sum = pen2 + marker2 + clean2;
+sum -= sum * percent / 100;
+Console.WriteLine(sum);
