@@ -1,0 +1,10 @@
+﻿double budget = double.Parse(Console.ReadLine());
+int video = int.Parse(Console.ReadLine());
+int processors = int.Parse(Console.ReadLine());
+int ram = int.Parse(Console.ReadLine());
+double price = video * 250;
+price += price * 0.35 * processors;
+price += video * 250 * 0.1 * ram;
+if (video > processors) price -= price * 0.15;
+if (budget >= price) Console.WriteLine($"You have {budget - price:f2} leva left!");
+else Console.WriteLine($"Not enough money! You need {price - budget:f2} leva more!");

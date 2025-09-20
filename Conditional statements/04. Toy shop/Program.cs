@@ -1,0 +1,14 @@
+﻿double priceE = double.Parse(Console.ReadLine());
+int puzzles = int.Parse(Console.ReadLine());
+int dolls = int.Parse(Console.ReadLine());
+int bears = int.Parse(Console.ReadLine());
+int minions = int.Parse(Console.ReadLine());
+int lorries = int.Parse(Console.ReadLine());
+double price = puzzles * 2.6 + dolls * 3 + bears * 4.1 + minions * 8.2 + lorries * 2;
+double dis1 = 0;
+if (puzzles + dolls + bears + minions + lorries >= 50) dis1 = price * 0.25;
+double dis2 = (price - dis1) * 0.1;
+price -= dis1;
+price -= dis2;
+if (price >= priceE) Console.WriteLine($"Yes! {price - priceE:f2} lv left.");
+else Console.WriteLine($"Not enough money! {priceE - price:f2} lv needed.");
