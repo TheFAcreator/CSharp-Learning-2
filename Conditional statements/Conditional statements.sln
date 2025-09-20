@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{011BB474-0899-4D6F-87CE-B93FE5C97370}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{011BB474-0899-4D6F-87CE-B93FE5C97370}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Excellent result", "01. Excellent result\01. Excellent result.csproj", "{C359532C-5EFF-4FE6-8A6C-4AA659145FA6}"
 EndProject
@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed info", "06. Speed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Area of figures", "07. Area of figures\07. Area of figures.csproj", "{490E1EFC-8B27-410F-82A0-59B300644066}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{29B75397-F847-418E-A988-7CC9DFF0511E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{29B75397-F847-418E-A988-7CC9DFF0511E}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum seconds", "01. Sum seconds\01. Sum seconds.csproj", "{D3CEA5D7-7ED2-4B25-A32A-208F74A2A4B0}"
 EndProject
