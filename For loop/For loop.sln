@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{8BD807D8-6988-4359-B201-1D60CE26BD82}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{8BD807D8-6988-4359-B201-1D60CE26BD82}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers from 1 to 100", "01. Numbers from 1 to 100\01. Numbers from 1 to 100.csproj", "{653A5813-F687-41F1-BDD5-1A40ADE58D49}"
 EndProject
@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Left and right sum", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Odd even sum", "10. Odd even sum\10. Odd even sum.csproj", "{A1386938-58C0-4E8E-9093-7631EE47DFE5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{98D7F231-FAA6-4D05-8E53-60B89705D169}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{98D7F231-FAA6-4D05-8E53-60B89705D169}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers ending in 7", "01. Numbers ending in 7\01. Numbers ending in 7.csproj", "{690AD3EB-9915-40D2-B4D9-50F189DFE03F}"
 EndProject
