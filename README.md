@@ -4,7 +4,7 @@ They are significantly harder and longer and some projects even have references 
 
 Exercises are from three types: **Basics -> Fundamentals -> Advanced**
 #### Each topic from these types is a solution which contains multiple projects which solve various exercises. These projects are stored in 2 in-solution folders: Lab, Exercise. Lab stores introductory tasks and Exercise contains harder tasks which are a practical use of the new knowledge (hence way longer and more complex). You can check out the .sln file where I have added comments so that these projects (lab, exercise) are separated.
-In the table below are listed all solutions (topics).
+##In the table below are listed all solutions (topics).
 ##### Topics marked with a ⭐ are important and complex C# stuff. Topics marked with ⭐⭐⭐ are actual **whole projects** with a practical use.
 
 ###### Important notes: The order of commits isn't equal to the order of exercise creation. In order to see the correct solution structure, try loading the solution in your IDE.
