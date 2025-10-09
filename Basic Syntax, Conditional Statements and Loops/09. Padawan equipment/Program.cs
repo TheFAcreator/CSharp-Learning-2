@@ -1,0 +1,11 @@
+﻿double budget = double.Parse(Console.ReadLine());
+int count = int.Parse(Console.ReadLine());
+double ls = double.Parse(Console.ReadLine());
+double robe = double.Parse(Console.ReadLine());
+double belt = double.Parse(Console.ReadLine());
+double purchase = (ls + belt + robe) * count;
+int discount = count / 6;
+purchase -= belt * discount;
+purchase += Math.Ceiling(count * 0.1) * ls;
+if (budget >= purchase) Console.WriteLine($"The money is enough - it would cost {purchase:f2}lv.");
+else Console.WriteLine($"John will need {purchase - budget:f2}lv more.");

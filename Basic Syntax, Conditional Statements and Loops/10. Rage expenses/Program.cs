@@ -1,0 +1,12 @@
+﻿int count = int.Parse(Console.ReadLine());
+double head = double.Parse(Console.ReadLine());
+double mouse = double.Parse(Console.ReadLine());
+double keyb = double.Parse(Console.ReadLine());
+double display = double.Parse(Console.ReadLine());
+head *= count / 2;
+mouse *= count / 3;
+keyb *= count / 6;
+int keyb2 = count / 6;
+display *= keyb2 / 2;
+double expenses = head + mouse + keyb + display;
+Console.WriteLine($"Rage expenses: {expenses:f2} lv.");
