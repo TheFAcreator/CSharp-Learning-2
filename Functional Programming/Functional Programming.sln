@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{33753166-FFE1-4D0F-95DA-D881583CFED6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Action print", "01. Action print\01. Action print.csproj", "{4687F667-66FA-4A93-88F4-B39784804C5F}"
 EndProject
@@ -29,13 +27,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Party reservation filte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. TriFunction", "11. TriFunction\11. TriFunction.csproj", "{F1917C78-AA70-4E0F-9CE9-BAD42C0BAD14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{DE98F110-C9CB-D52A-C68B-E4A42A5128C2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{33753166-FFE1-4D0F-95DA-D881583CFED6}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sort even numbers", "01. Sort even numbers\01. Sort even numbers.csproj", "{CE3C355D-A39A-2AFA-9FF5-73E2A6FA2BAD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum numbers", "02. Sum numbers\02. Sum numbers.csproj", "{5403FBFB-1352-13AF-8547-85F8076E22DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count uppercase words", "03. Count uppercase words\03. Count uppercase words.csproj", "{37751C0B-C95C-72B5-1F0E-8D6CEB21A85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{DE98F110-C9CB-D52A-C68B-E4A42A5128C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Filter by age", "05. Filter by age\05. Filter by age.csproj", "{A3ACC345-B679-564E-59B0-E6C51AAB68FA}"
 EndProject
