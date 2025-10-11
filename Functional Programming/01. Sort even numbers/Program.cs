@@ -1,0 +1,1 @@
+﻿Console.WriteLine(string.Join(", ", Console.ReadLine().Split(", ").Select(int.Parse).Where(k => k % 2 == 0).OrderBy(j => j)));
