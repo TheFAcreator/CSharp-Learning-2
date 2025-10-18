@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse strings", "01. Reverse strings\01. Reverse strings.csproj", "{887AA149-1A6E-41F0-87BA-E319D16A5EF0}"
 EndProject
@@ -14,7 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text filter", "04. Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Digits, letters and other", "05. Digits, letters and other\05. Digits, letters and other.csproj", "{B385603C-B00E-4712-AF02-65D92B48AF33}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{C11EE646-40A8-4C83-A2AC-1740C7989B6C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{C11EE646-40A8-4C83-A2AC-1740C7989B6C}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Valid usernames", "01. Valid usernames\01. Valid usernames.csproj", "{33E95A33-0988-4B50-8582-21E587191DB7}"
 EndProject
@@ -32,7 +32,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String explosion", "07.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Letters change numbers (!)", "08. Letters change numbers (!)\08. Letters change numbers (!).csproj", "{704BCD35-03EC-45B0-961E-49641212AD1C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{229E3F78-810A-46A5-AAA7-110A7DE69C93}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{229E3F78-810A-46A5-AAA7-110A7DE69C93}" # More Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Extract person information", "01. Extract person information\01. Extract person information.csproj", "{976198B6-73BA-4F4D-863D-83E86C806D78}"
 EndProject
