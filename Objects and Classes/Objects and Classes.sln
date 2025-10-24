@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Randomize words", "01. Randomize words\01. Randomize words.csproj", "{123B4F93-2B83-4EC9-8A78-E3D7850E3B01}"
 EndProject
@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Store boxes", "06. Stor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Vehicle catalogue", "07. Vehicle catalogue\07. Vehicle catalogue.csproj", "{2976A6FB-14B3-437B-9F42-9C2BF2E96A61}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{E1D066D5-1DBE-4339-A3B1-930E901F7158}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{E1D066D5-1DBE-4339-A3B1-930E901F7158}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Advertisement message", "01. Advertisement message\01. Advertisement message.csproj", "{A6BAF78E-F855-42A4-A508-D70AEC748EAA}"
 EndProject
@@ -34,7 +34,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vehicle catalogue (exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Order by age", "07. Order by age\07. Order by age.csproj", "{8A147577-5096-40A7-BD19-76BBF4E784C5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{570FB6C3-0C6A-48E0-9049-4BD8C84A3C52}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{570FB6C3-0C6A-48E0-9049-4BD8C84A3C52}" # More Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Company roster", "01. Company roster\01. Company roster.csproj", "{F917812B-9876-42F4-B33D-D046C215777C}"
 EndProject
