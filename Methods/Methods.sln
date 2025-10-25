@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sign of integer numbers", "01. Sign of integer numbers\01. Sign of integer numbers.csproj", "{56486E59-D25A-4D29-AA0D-08339193C0E0}"
 EndProject
@@ -26,7 +26,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Multiply evens by odds"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Math operations", "11. Math operations\11. Math operations.csproj", "{258CE0D8-0BF0-41FA-AD17-0BC3D8EFDC89}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{079B699C-A320-409C-9701-FF1138548DE2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{079B699C-A320-409C-9701-FF1138548DE2}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of three numbers", "01. Smallest of three numbers\01. Smallest of three numbers.csproj", "{7BCC7DD1-F9CA-4D5C-AE3E-31377F87D377}"
 EndProject
@@ -50,7 +50,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top number", "10. Top n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array manipulator (!)", "11. Array manipulator (!)\11. Array manipulator (!).csproj", "{8C5F8233-9494-4895-9191-97D4900FC0D7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{B7F0238E-82BF-4B25-A47A-221DDD80C128}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{B7F0238E-82BF-4B25-A47A-221DDD80C128}" # More Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data types", "01. Data types\01. Data types.csproj", "{9BD37A86-3315-4884-A1AF-6C0C3CC7ED5D}"
 EndProject
