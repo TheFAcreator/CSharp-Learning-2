@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Convert meters to kilometers", "01. Convert meters to kilometers\01. Convert meters to kilometers.csproj", "{2E480304-DC1A-4B95-B6EA-71FEAFFEAC5D}"
 EndProject
@@ -28,7 +28,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Refactor volume of pyra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Refactor special numbers", "12. Refactor special numbers\12. Refactor special numbers.csproj", "{B09E5A3B-7C16-453D-BC74-0B3CFBB13CA7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{9EC53E2B-592F-4388-AA43-9C5E30C9932F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{9EC53E2B-592F-4388-AA43-9C5E30C9932F}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Integer operations", "01. Integer operations\01. Integer operations.csproj", "{5632BE22-BB68-491C-85CD-0F0D96327E15}"
 EndProject
@@ -52,7 +52,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Poke mon (!)", "10. Pok
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Snowballs (!)", "11. Snowballs (!)\11. Snowballs (!).csproj", "{EB4150C9-F93D-4FC5-9AF5-3D92BF2B7BCD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{23E37590-A43E-4DA1-B812-B74EB1D7828C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{23E37590-A43E-4DA1-B812-B74EB1D7828C}" # More Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data type finder", "01. Data type finder\01. Data type finder.csproj", "{59695B8B-B0D7-4E9D-94AB-368371ABF681}"
 EndProject
