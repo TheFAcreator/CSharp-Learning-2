@@ -7,25 +7,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Axe and dummy tests", "01. Axe and dummy tests\01. Axe and dummy tests.csproj", "{61A077B7-0334-4ACA-852D-80C56017BFCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxeAndDummy.Tests", "AxeAndDummy.Tests\AxeAndDummy.Tests.csproj", "{911347F0-7DE3-44CE-A210-A42799B714F1}" # Tests folder
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxeAndDummy.Tests", "AxeAndDummy.Tests\AxeAndDummy.Tests.csproj", "{911347F0-7DE3-44CE-A210-A42799B714F1}" # Tests
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{498F74E5-59F2-4287-9476-966C4CF67ED2}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Database", "01. Database\01. Database.csproj", "{9208985A-1D00-4F83-82E2-469B3CDA0AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Tests", "Database.Tests\Database.Tests.csproj", "{E4415B56-D7C7-4B61-85EB-924F6190FBE5}" # Tests folder
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Tests", "Database.Tests\Database.Tests.csproj", "{E4415B56-D7C7-4B61-85EB-924F6190FBE5}" # Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extended database", "02. Extended database\02. Extended database.csproj", "{EEB28DAA-DF12-4DD3-A339-CDFD616B3FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedDatabase.Tests", "ExtendedDatabase.Tests\ExtendedDatabase.Tests.csproj", "{AD211836-4A2F-48BE-9DDA-473C6DF16B67}" # Tests folder
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedDatabase.Tests", "ExtendedDatabase.Tests\ExtendedDatabase.Tests.csproj", "{AD211836-4A2F-48BE-9DDA-473C6DF16B67}" # Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Car manager", "03. Car manager\03. Car manager.csproj", "{04B82F6D-F658-43A5-AA8A-2E308C15C65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager.Tests", "CarManager.Tests\CarManager.Tests.csproj", "{12518492-0FFD-449B-9156-0F7EB74109F9}" # Tests folder
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager.Tests", "CarManager.Tests\CarManager.Tests.csproj", "{12518492-0FFD-449B-9156-0F7EB74109F9}" # Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fighting arena", "04. Fighting arena\04. Fighting arena.csproj", "{0E9D4DD7-0AB7-472E-89EE-C3376B494231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena.Tests", "FightingArena.Tests\FightingArena.Tests.csproj", "{C85F74B1-D9E6-4ED9-8FE1-BCEC4C1C4FD1}" # Tests folder
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena.Tests", "FightingArena.Tests\FightingArena.Tests.csproj", "{C85F74B1-D9E6-4ED9-8FE1-BCEC4C1C4FD1}" # Tests
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
