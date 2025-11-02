@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum matrix elements", "01. Sum matrix elements\01. Sum matrix elements.csproj", "{C4CBF5D2-56DE-42CE-8A85-E160679D1284}"
 EndProject
@@ -14,7 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Symbol in matrix", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Square with maximum sum", "05. Square with maximum sum\05. Square with maximum sum.csproj", "{0A96E290-5452-46EE-AA8D-A5C0449F58EC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{4985059B-EB8A-4B6F-89DD-60C090BE7527}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{4985059B-EB8A-4B6F-89DD-60C090BE7527}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Diagonal difference", "01. Diagonal difference\01. Diagonal difference.csproj", "{50E9DD6B-63AF-4325-83F4-E389CE87CF9F}"
 EndProject
