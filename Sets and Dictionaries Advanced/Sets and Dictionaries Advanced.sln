@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count same values in array", "01. Count same values in array\01. Count same values in array.csproj", "{B6C7C670-DC18-4735-890A-6F534AF63621}"
 EndProject
@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Parking lot", "07. Park
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni party", "08. SoftUni party\08. SoftUni party.csproj", "{08BE7538-2B23-41F0-8E94-8C342C9DF2B6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{959C16C5-DDBE-4327-A7C4-90F84C07BCD6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{959C16C5-DDBE-4327-A7C4-90F84C07BCD6}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique usernames", "01. Unique usernames\01. Unique usernames.csproj", "{EF1EFB23-FD84-4569-83B1-8C074B60A1C6}"
 EndProject
