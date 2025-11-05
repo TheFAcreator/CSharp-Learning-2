@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}" # Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Match full name", "01. Match full name\01. Match full name.csproj", "{07F51C27-1724-4184-946B-9F1409469C37}"
 EndProject
@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Match phone number", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Match dates", "03. Match dates\03. Match dates.csproj", "{09F4928A-0A6E-4689-BE90-5C2763787BCA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{B35D7DEB-5DE6-43AF-8104-A0A4A464EE8D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{B35D7DEB-5DE6-43AF-8104-A0A4A464EE8D}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Furniture", "01. Furniture\01. Furniture.csproj", "{154ABF63-1722-46C4-888C-B66B592B7BAE}"
 EndProject
@@ -24,7 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Nether realms (!)", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Extract emails (!)", "06. Extract emails (!)\06. Extract emails (!).csproj", "{C2271D7C-381D-4E5F-9C55-AC4443109722}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{B9837B58-ED18-433E-A2D2-1550FCDD41D5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "More exercise", "More exercise", "{B9837B58-ED18-433E-A2D2-1550FCDD41D5}" # More Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Winning ticket", "01. Winning ticket\01. Winning ticket.csproj", "{3F19611A-BA5D-4527-853E-86D86D9A1CDB}"
 EndProject
