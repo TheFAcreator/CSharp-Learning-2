@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{02EA681E-C7D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fake axe and dummy", "01. Fake axe and dummy\01. Fake axe and dummy.csproj", "{7BBD2418-A990-4D98-9F67-B32B968DD794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeAxeAndDummy.Tests", "FakeAxeAndDummy.Tests\FakeAxeAndDummy.Tests.csproj", "{0C01E610-5348-47E0-9EE1-E300ACE2DB13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeAxeAndDummy.Tests", "FakeAxeAndDummy.Tests\FakeAxeAndDummy.Tests.csproj", "{0C01E610-5348-47E0-9EE1-E300ACE2DB13}" # Tests
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{7134CBC8-7FDD-4BC4-A0DA-260E5D60A7B1}" # Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Chainblock", "01. Chainblock\01. Chainblock.csproj", "{49D1B3CD-DA2C-4B31-9ECE-81BB7004DC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chainblock.Tests", "Chainblock.Tests\Chainblock.Tests.csproj", "{00FDF039-B380-4D36-998C-1EE74B545DE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chainblock.Tests", "Chainblock.Tests\Chainblock.Tests.csproj", "{00FDF039-B380-4D36-998C-1EE74B545DE0}" # Tests
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
