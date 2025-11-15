@@ -25,19 +25,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Football manager", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Championship", "11. Championship\11. Championship.csproj", "{F98674CE-807E-4D7A-B376-8A7B84DD8DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Championship.Tests", "Championship.Tests\Championship.Tests.csproj", "{E0F4855A-F9A0-4762-9293-C5DED7A26094}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Championship.Tests", "Championship.Tests\Championship.Tests.csproj", "{E0F4855A-F9A0-4762-9293-C5DED7A26094}" # Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Car dealership", "12. Car dealership\12. Car dealership.csproj", "{6B3016A7-C448-4519-A4B5-F7754A92F7A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Autotrade", "13. Autotrade\13. Autotrade.csproj", "{0E6BD9B0-1B4D-494E-948E-5B346E6C0EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autotrade.Tests", "Autotrade.Tests\Autotrade.Tests.csproj", "{62BC86C9-EBA8-42BF-8ED8-BB8398A15CBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autotrade.Tests", "Autotrade.Tests\Autotrade.Tests.csproj", "{62BC86C9-EBA8-42BF-8ED8-BB8398A15CBA}" # Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Legends of Valor - The Guild trials", "14. Legends of Valor - The Guild trials\14. Legends of Valor - The Guild trials.csproj", "{E9AC5B33-0BA9-415C-A6E4-6C8E79D97C45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Mythic legion", "15. Mythic legion\15. Mythic legion.csproj", "{852AF258-BC58-4D2C-9BE8-F0CF8F6DB737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion.Tests", "MythicLegion.Tests\MythicLegion.Tests.csproj", "{D925707B-218C-48FA-984B-75A4B1C97F0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion.Tests", "MythicLegion.Tests\MythicLegion.Tests.csproj", "{D925707B-218C-48FA-984B-75A4B1C97F0A}" # Tests
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
