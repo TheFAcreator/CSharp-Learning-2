@@ -1,0 +1,50 @@
+AddCustomer IndividualClient RenataAndrews
+AddCustomer IndividualClient MartinTikker
+AddCustomer LegalEntityCustomer TransRush
+AddCustomer LegalEntityCustomer CargoGoat
+AddCustomer VIPClient WillyBetz
+AddCustomer LegalEntityCustomer RenataAndrews
+AddVehicle SaloonCar MercedesBenzC220CDI 22000
+AddVehicle SaloonCar BMW330i 28000
+AddVehicle SaloonCar ToyotaCamry 21500
+AddVehicle SaloonCar Mazda6 25400
+AddVehicle SaloonCar VolkswagenArteonRLine 43000
+AddVehicle SaloonCar TeslaModel3 54000
+AddVehicle SUV MercedesGL400d 56200
+AddVehicle SUV BMWiX5M 62500
+AddVehicle SUV BentleyBentyaga 122000
+AddVehicle SUV MitsubishiPajero 88100
+AddVehicle SUV DihatsuFeroza 5200
+AddVehicle SUV AudiSQ8 102000
+AddVehicle Truck VolvoFH16 219000
+AddVehicle Truck MercedesActros 275000
+AddVehicle Truck ScaniaRSeries 220000
+AddVehicle Truck MANTGX 255000
+AddVehicle Truck DAFXF 228000
+AddVehicle Truck IvecoStralis 203000
+AddVehicle Truck RenaultT 207000
+AddVehicle Van RenaultTraffic 17000
+AddVehicle Truck ToyotaCamry 27000
+PurchaseVehicle SaloonCar MartinTikker 29000
+PurchaseVehicle Truck TransRush 210000
+PurchaseVehicle SUV TransRush 36880
+PurchaseVehicle Truck RenataAndrews 300000
+PurchaseVehicle SUV RenataAndrews 226000
+PurchaseVehicle SaloonCar MartinTikker 121600
+PurchaseVehicle SaloonCar MartinTikker 43000
+PurchaseVehicle Truck WillyBetz 226000
+PurchaseVehicle SUV RenataAndrews 126000
+PurchaseVehicle SUV RenataAndrews 66000
+PurchaseVehicle Truck TransRush 288100
+PurchaseVehicle Truck TransRush 273200
+PurchaseVehicle Truck TransRush 297000
+PurchaseVehicle Truck CargoGoat 201000
+PurchaseVehicle Truck CargoGoat 20000
+PurchaseVehicle Truck CargoGoat 2530000
+PurchaseVehicle SUV CargoGoat 45000
+PurchaseVehicle SUV CargoGoat 57000
+PurchaseVehicle SUV CargoGoat 69000
+AddCustomer LegalEntityCustomer WillyBetz
+CustomerReport
+SalesReport SUV
+Exit
