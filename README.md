@@ -12,6 +12,12 @@ Each topic from these types is a solution which contains multiple projects which
 
 | Topic | Type       | Number of exercises |
 |:----------:|:--------------:|:----------------:|
-| First steps in coding | Basics | 18 (Lab, Exercise) |
-|Conditional Statements|Basics|15(Lab, Exercise)|
-|          |              |                |
+|First steps in coding|Basics|18 (Lab, Exercise)|
+|Conditional Statements|Basics|15 (Lab, Exercise)|
+|Conditional Statements Advanced|Basics|21 (Lab, Exercise)|
+|For Loop|Basics|18 (Lab, Exercise)|
+|While Loop|Basics|15 (Lab, Exercise)|
+|Nested Loops|Basics|12 (Lab, Exercise)|
+||||
+||||
+||||
