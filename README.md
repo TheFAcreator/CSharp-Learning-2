@@ -11,7 +11,7 @@ Each topic from these types is a solution which contains multiple projects which
 ###### Important notes: The order of commits isn't equal to the order of exercise creation. In order to see the correct solution structure, try loading the solution in your IDE.
 
 | Topic | Type       | Number of exercises |
-|----------|--------------|----------------|
-|: First steps in coding :|: Basics :|: 18 (Lab, Exercise) :|
+|:----------:|:--------------:|:----------------:|
+| First steps in coding | Basics | 18 (Lab, Exercise) |
 |          |              |                |
 |          |              |                |
