@@ -13,5 +13,5 @@ Each topic from these types is a solution which contains multiple projects which
 | Topic | Type       | Number of exercises |
 |:----------:|:--------------:|:----------------:|
 | First steps in coding | Basics | 18 (Lab, Exercise) |
-|          |              |                |
+|Conditional Statements|Basics|15(Lab, Exercise)|
 |          |              |                |
