@@ -8,7 +8,7 @@ Each topic from these types is a solution which contains multiple projects which
 ## In the table below are listed all solutions (topics).
 ##### Topics marked with a ⭐ are important and complex C# stuff. Topics marked with ⭐⭐⭐ are actual **whole projects** with a practical use. Exercises that have (!) in end of their names are *extra exercises* meaning that they are more complex than the other in the topic they are part of.
 
-###### Important notes: The order of commits isn't equal to the order of exercise creation. In order to see the correct solution structure, try loading the solution in your IDE.
+###### Important notes: The order of commits isn't equal to the order of exercise solving. The correct order is displayed in the table below. In order to see the right solution structure, try loading the solution in your IDE.
 
 | Topic | Type      | Number of exercises |
 |:----------:|:--------------:|:----------------:|
