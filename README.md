@@ -10,7 +10,7 @@ Each topic from these types is a solution which contains multiple projects which
 
 ###### Important notes: The order of commits isn't equal to the order of exercise creation. In order to see the correct solution structure, try loading the solution in your IDE.
 
-| Topic | Type       | Number of exercises |
+| Topic | Type      | Number of exercises |
 |:----------:|:--------------:|:----------------:|
 |First steps in coding|Basics|18 (Lab, Exercise)|
 |Conditional Statements|Basics|15 (Lab, Exercise)|
@@ -18,6 +18,12 @@ Each topic from these types is a solution which contains multiple projects which
 |For Loop|Basics|18 (Lab, Exercise)|
 |While Loop|Basics|15 (Lab, Exercise)|
 |Nested Loops|Basics|12 (Lab, Exercise)|
-||||
-||||
-||||
+|Basic Syntax, Conditional Statements and Loops|Fundamentals|29 (Lab, Exercise, More Exercise)|
+|Data Types and Variables|Fundamentals|29 (Lab, Exercise, More Exercise)|
+|Arrays|Fundamentals|20 (Lab, Exercise, More Exercise)|
+|Methods|Fundamentals|27 (Lab, Exercise, More Exercise)|
+|Lists|Fundamentals|20 (Lab, Exercise, More Exercise)|
+|Objects and Classes|Fundamentals|19 (Lab, Exercise, More Exercise)|
+|Associative Arrays|Fundamentals|16 (Lab, Exercise, More Exercise)|
+|Text Processing|Fundamentals|18 (Lab, Exercise, More Exercise)|
+|Regular Expressions ⭐|Fundamentals|13 (Lab, Exercise, More Exercise)|
